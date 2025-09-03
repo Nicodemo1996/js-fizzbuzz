@@ -10,3 +10,6 @@ for (let i = 1; i <= 100; i++) {
 }else if (i % 3 === 0) {
   console.log("Frizz")
 
+  //condizione per i multipli di 5//
+} else if (i % 5 === 0) {
+  console.log("Buzz")
